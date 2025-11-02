@@ -63,8 +63,8 @@ A modern recreation of the classic Flappy Bird game built with React Native and 
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/flappy-bird-game.git
-cd flappy-bird-game
+git clone https://github.com/Gaurav-Salian/flappy-bird-Android.git
+cd flappy-bird-Android
 ```
 
 2. **Install dependencies**
@@ -428,9 +428,9 @@ This project is for educational purposes. Original Flappy Bird created by Dong N
 
 ## 👤 Author
 
-**[Your Name]**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+**Gaurav**
+- GitHub: [@Gaurav-Salian](https://github.com/Gaurav-Salian)
+- Email: gaurav@glizch.in
 
 ---
 
@@ -457,8 +457,8 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📞 Support
 
-Having issues? Create an issue on GitHub or email me at your.email@example.com
+Having issues? Create an issue on GitHub or email me at your.gaurav@glizch.in
 
 ---
 
-**Made with ❤️ and lots of ☕**
+**Made with ❤️ and lots of ☕ by Gaurav**
