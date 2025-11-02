@@ -1,5 +1,11 @@
 # Learn more https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files
 
+#backup code
+Game_next_old.js
+Game_old.js
+problems-to-fix.txt
+
+
 # dependencies
 node_modules/
 
